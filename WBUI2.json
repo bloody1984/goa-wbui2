@@ -1,86 +1,71 @@
 {
     "WBUI2": {
         "settings": {
-            "openbutton": 0,
-            "hideicon": false,
-            "hideiconafter": 60,
-            "iconurl": "https://iili.io/Cnlr6H7.png",
-            "disableicontext": false,
-            "iconposition": 0,
-            "icontextcolor": 6,
-            "openonstart": true,
-            "openonstartonlynewplayers": true,
-            "updateinterval": 5
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://iili.io/Cnlr6H7.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 5
         },
         "tabs": [
             {
-                "layout": 1,
-                "buttontext": "Willkommen",
-                "imageurl": "",
-                "content": [
-                    {
-                        "title": "Willkommen bei GoA Community!",
-                        "text": "Schön dass du da bist! 🦖\n\nDieser Server ist Teil der GoA Community — einer freundlichen ARK-Community mit mehreren Maps und Mods.\n\nNutze die Tabs oben um durch die Regeln, Tipps und Infos zu navigieren.\n\nViel Spaß beim Zocken!"
-                    }
-                ]
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Willkommen",
+                    "title1": "Willkommen bei GoA Community!",
+                    "text1": "Schön dass du da bist! 🦖\n\nDieser Server ist Teil der GoA Community — einer freundlichen ARK-Community mit mehreren Maps und Mods.\n\nNutze die Tabs oben um durch die Regeln, Tipps und Infos zu navigieren.\n\nViel Spaß beim Zocken!"
+                }
             },
             {
-                "layout": 1,
-                "buttontext": "Regeln",
-                "imageurl": "",
-                "content": [
-                    {
-                        "title": "Server Regeln",
-                        "text": "1. Kein Griefing — das Zerstören von Basen/Dinos ohne Grund ist verboten\n2. Respektiert eure Nachbarn — genügend Abstand zur nächsten Base einhalten\n3. Max. 1 Base pro Tribe\n4. Kein Bauen an Spawnpunkten, Obelisken, Dungeons oder Artefakten\n5. Kein Bauen auf der Fleischfresser- und Pflanzenfresser-Insel\n6. Für temporäre Strukturen beim Zähmen (Tore, Spikes) — danach sofort abbauen\n7. Spawnpunkte freihalten — neue Spieler müssen eure Base verlassen können\n\nBei Verstößen folgen Warnungen und ggf. ein Ban."
-                    },
-                    {
-                        "title": "Grundsätze",
-                        "text": "• Kein Ausnutzen von Bugs/Exploits — kann zum Bann führen\n• Kein Ausgeben als Admin — Admins haben einen Stern vor dem Namen\n• Kein Werben für andere Server im Chat oder Discord\n• Bei längerer Abwesenheit → Admin in Discord kontaktieren\n• Mods können bei Inkompatibilität entfernt werden"
-                    }
-                ]
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "Regeln",
+                    "title1": "Server Regeln",
+                    "text1": "1. Kein Griefing — das Zerstören von Basen/Dinos ohne Grund ist verboten\n2. Respektiert eure Nachbarn — genügend Abstand zur nächsten Base einhalten\n3. Max. 1 Base pro Tribe\n4. Kein Bauen an Spawnpunkten, Obelisken, Dungeons oder Artefakten\n5. Kein Bauen auf der Fleischfresser- und Pflanzenfresser-Insel\n6. Für temporäre Strukturen beim Zähmen (Tore, Spikes) — danach sofort abbauen\n7. Spawnpunkte freihalten — neue Spieler müssen eure Base verlassen können\n\nBei Verstößen folgen Warnungen und ggf. ein Ban."
+                }
             },
             {
-                "layout": 1,
-                "buttontext": "Einstellungen",
-                "imageurl": "",
-                "content": [
-                    {
-                        "title": "Server Einstellungen",
-                        "text": "XP: 2x\nHarvesting: 3x\nTaming: 10x\nMaturation: 50x\nBreeding: 5x\nCrop-Growth: 10x\n\nRessourcen-Respawn: Standard\nDino-Respawn: Standard\nMax Tribe Size: 10\nMax Players per Tribe Structures: 2000"
-                    }
-                ]
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "Grundsätze",
+                    "title1": "Grundsätze & Admin-Regeln",
+                    "text1": "• Kein Ausnutzen von Bugs/Exploits — kann zum Bann führen\n• Kein Ausgeben als Admin — Admins haben einen Stern vor dem Namen\n• Kein Werben für andere Server im Chat oder Discord\n• Bei längerer Abwesenheit → Admin in Discord kontaktieren\n• Mods können bei Inkompatibilität entfernt werden\n\nBei eventueller Inkompatibilität (z.B. durch Updates) können Mods nach Ankündigung entfernt werden. Auch besteht kein Anspruch auf den kompletten Umfang oder Inhalt einer Mod."
+                }
             },
             {
-                "layout": 1,
-                "buttontext": "Tipps",
-                "imageurl": "",
-                "content": [
-                    {
-                        "title": "Tipps für Neulinge",
-                        "text": "Tastenkürzel:\n• F1 — Regeln aufrufen\n• F10 — Tek-Dino Chance einsehen\n• Im Inventar oben rechts: Dinofinder-Button\n\nNützlich:\n• SPY GLASS Mod — Dinos analysieren und Attribute einsehen\n• Teleporter — schnelles Reisen zwischen Basen (wenn freigeschaltet)\n• Nutzt /saveworld oder wartet auf den automatischen Save\n\nStarterkit:\n• Nutze den Ingame-Admin-Editor oder frag einen Admin nach einem Starterkit\n\nWichtig:\n• Giveaways und Events werden im Discord angekündigt"
-                    }
-                ]
+                "tab4": {
+                    "layout": 1,
+                    "buttontext": "Tipps",
+                    "title1": "Tipps & Tastenkürzel",
+                    "text1": "Tastenkürzel:\n• F1 — Regeln aufrufen\n• F10 — Tek-Dino Chance einsehen\n• Im Inventar oben rechts: Dinofinder-Button\n\nNützlich:\n• SPY GLASS Mod — Dinos analysieren und Attribute einsehen\n• Teleporter — schnelles Reisen zwischen Basen (wenn freigeschaltet)\n• Nutzt /saveworld oder wartet auf den automatischen Save\n\nGiveaways und Events werden im Discord angekündigt!"
+                }
             },
             {
-                "layout": 1,
-                "buttontext": "Discord",
-                "imageurl": "",
-                "content": [
-                    {
-                        "title": "GoA Community Discord",
-                        "text": "Tritt unserem Discord bei!\n\nhttps://discord.gg/goa-community\n\nDort findest du:\n• Server Status & Ankündigungen\n• Events & Giveaways\n• Support & Tickets\n• Voice Chat mit anderen Spielern\n• Community Events\n\nDanke dass du Teil unserer Community bist! 🦖"
-                    }
-                ]
+                "tab5": {
+                    "layout": 1,
+                    "buttontext": "Discord",
+                    "title1": "GoA Community Discord",
+                    "text1": "Tritt unserem Discord bei!\n\nhttps://discord.gg/goa-community\n\nDort findest du:\n• Server Status & Ankündigungen\n• Events & Giveaways\n• Support & Tickets\n• Voice Chat mit anderen Spielern\n\nDanke dass du Teil unserer Community bist! 🦖"
+                }
             }
         ],
         "Links": [
             {
-                "text": "Discord beitreten",
-                "url": "https://discord.gg/goa-community"
+                "link1": {
+                    "text": "Discord beitreten",
+                    "url": "https://discord.gg/goa-community"
+                }
             },
             {
-                "text": "Support Ticket",
-                "url": "https://discord.com/channels/1102226915626065972"
+                "link2": {
+                    "text": "Support Ticket",
+                    "url": "https://discord.com/channels/1102226915626065972"
+                }
             }
         ]
     }
