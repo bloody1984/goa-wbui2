@@ -1,72 +1,57 @@
 {
-    "WBUI2": {
-        "settings": {
-            "OpenButton": 0,
-            "HideIcon": false,
-            "HideIconAfter": 60,
-            "IconURL": "https://iili.io/Cnlr6H7.png",
-            "DisableIconText": false,
-            "IconPosition": 0,
-            "IconTextColor": 0,
-            "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": true,
-            "UpdateInterval": 5
-        },
-        "tabs": [
-            {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "Willkommen",
-                    "title1": "Willkommen bei GoA Community!",
-                    "text1": "Schön dass du da bist! 🦖\n\nDieser Server ist Teil der GoA Community — einer freundlichen ARK-Community mit mehreren Maps und Mods.\n\nNutze die Tabs oben um durch die Regeln, Tipps und Infos zu navigieren.\n\nViel Spaß beim Zocken!"
-                }
-            },
-            {
-                "tab2": {
-                    "layout": 1,
-                    "buttontext": "Regeln",
-                    "title1": "Server Regeln",
-                    "text1": "1. Kein Griefing — das Zerstören von Basen/Dinos ohne Grund ist verboten\n2. Respektiert eure Nachbarn — genügend Abstand zur nächsten Base einhalten\n3. Max. 1 Base pro Tribe\n4. Kein Bauen an Spawnpunkten, Obelisken, Dungeons oder Artefakten\n5. Kein Bauen auf der Fleischfresser- und Pflanzenfresser-Insel\n6. Für temporäre Strukturen beim Zähmen (Tore, Spikes) — danach sofort abbauen\n7. Spawnpunkte freihalten — neue Spieler müssen eure Base verlassen können\n\nBei Verstößen folgen Warnungen und ggf. ein Ban."
-                }
-            },
-            {
-                "tab3": {
-                    "layout": 1,
-                    "buttontext": "Grundsätze",
-                    "title1": "Grundsätze & Admin-Regeln",
-                    "text1": "• Kein Ausnutzen von Bugs/Exploits — kann zum Bann führen\n• Kein Ausgeben als Admin — Admins haben einen Stern vor dem Namen\n• Kein Werben für andere Server im Chat oder Discord\n• Bei längerer Abwesenheit → Admin in Discord kontaktieren\n• Mods können bei Inkompatibilität entfernt werden\n\nBei eventueller Inkompatibilität (z.B. durch Updates) können Mods nach Ankündigung entfernt werden. Auch besteht kein Anspruch auf den kompletten Umfang oder Inhalt einer Mod."
-                }
-            },
-            {
-                "tab4": {
-                    "layout": 1,
-                    "buttontext": "Tipps",
-                    "title1": "Tipps & Tastenkürzel",
-                    "text1": "Tastenkürzel:\n• F1 — Regeln aufrufen\n• F10 — Tek-Dino Chance einsehen\n• Im Inventar oben rechts: Dinofinder-Button\n\nNützlich:\n• SPY GLASS Mod — Dinos analysieren und Attribute einsehen\n• Teleporter — schnelles Reisen zwischen Basen (wenn freigeschaltet)\n• Nutzt /saveworld oder wartet auf den automatischen Save\n\nGiveaways und Events werden im Discord angekündigt!"
-                }
-            },
-            {
-                "tab5": {
-                    "layout": 1,
-                    "buttontext": "Discord",
-                    "title1": "GoA Community Discord",
-                    "text1": "Tritt unserem Discord bei!\n\nhttps://discord.gg/goa-community\n\nDort findest du:\n• Server Status & Ankündigungen\n• Events & Giveaways\n• Support & Tickets\n• Voice Chat mit anderen Spielern\n\nDanke dass du Teil unserer Community bist! 🦖"
-                }
-            }
-        ],
-        "Links": [
-            {
-                "link1": {
-                    "text": "Discord beitreten",
-                    "url": "https://discord.gg/goa-community"
-                }
-            },
-            {
-                "link2": {
-                    "text": "Support Ticket",
-                    "url": "https://discord.com/channels/1102226915626065972"
-                }
-            }
-        ]
-    }
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 1,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://cdn.discordapp.com/attachments/1407484979214028822/1515964528884711475/logo_goA_asa.jpg?ex=6a30eb7c&is=6a2f99fc&hm=2d59e0d0e48d0fac8c8ed0a9b740c1ae7efaf829bcd27b024e21151c8c7f3179&",
+			"disableicontext": false,
+			"iconposition": 1,
+			"icontextcolor": 1,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 5
+		},
+		"tabs": [
+			{
+				"layout": 2,
+				"buttontext": "Welcome",
+				"imageurl": "https://cdn.discordapp.com/attachments/1407484979214028822/1515963947369365675/logo2.png?ex=6a30eaf2&is=6a2f9972&hm=cd1f9eb43792a5bb7a38e149384a3eea4ade7cfaad2eb8b361543fa591c495fb&",
+				"content": [
+					{
+						"title": "Willkommen auf Galaxy of ARK - GoA",
+						"text": "Entspanntes & faires PVE — schön, dass du da bist!\r\n\r\n**Start**\r\n- Starter‑Kit im Ingame‑Shop abholen → F1 drücken (Xbox/PS: Im Menü unter „Mods\" oder „Server-UI\")\r\n- WBUI2 öffnen → F2 drücken (Xbox/PS: Im Menü)\r\n- Punkte alle 30 Min. automatisch.\r\n- Support → Ticket‑System.\r\n\r\n**Server**\r\n- Boosts: Hx10 | XPx5 | Tx15 | Bx20\r\n- Level: 105 → 210 (Boss/Chibi)\r\n- Wild-Dinos bis 300 (Wyvern/Tek höher)\r\n- Alle offiziellen Maps + Crossplay\r\n- Inaktivität: 2 Wochen (VIP: 4 Wochen)\r\n\r\n**Mods**\r\n- Die vollständige Modliste findest du in unserem Discord!\r\n\r\n**Viel Spaß!**\r\nGenieß dein Abenteuer auf GoA. Wir wünschen dir eine gute Zeit auf dem Cluster."
+					},
+					{
+						"title": "Welcome to Galaxy of ARK — GoA",
+						"text": "Relaxed & fair PVE — glad you're here!\r\n\r\n**Getting Started**\r\n- Grab your Starter Kit in the Ingame Shop → Press F1 (Xbox/PS: Check the Menu)\r\n- Open WBUI2 → Press F2 (Xbox/PS: Check the Menu)\r\n- Points every 30 min. automatically.\r\n- Support → Ticket System.\r\n\r\n**Server**\r\n- Boosts: Hx10 | XPx5 | Tx15 | Bx20\r\n- Level: 105 → 210 (Boss/Chibi)\r\n- Wild Dinos up to 300 (Wyvern/Tek higher)\r\n- All official Maps + Crossplay\r\n- Inactivity: 2 weeks (VIP: 4 weeks)\r\n\r\n**Mods**\r\n- Find the full mod list in our Discord!\r\n\r\n**Have Fun!**\r\nEnjoy your adventure on GoA. We wish you a great time on the cluster. 🌿"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Rules",
+				"imageurl": "https://cdn.discordapp.com/attachments/1407484979214028822/1515963947369365675/logo2.png?ex=6a30eaf2&is=6a2f9972&hm=cd1f9eb43792a5bb7a38e149384a3eea4ade7cfaad2eb8b361543fa591c495fb&",
+				"content": [
+					{
+						"title": "Die wichtigsten Regeln",
+						"text": "**Verhalten**\r\n- Respekt gegenüber anderen Spielern — du bist nicht allein.\r\n- Kein Bugusing, Undermeshing oder Beleidigungen → Bann.\r\n- Admins haben das letzte Wort.\r\n- Im Chat nur Deutsch oder Englisch.\r\n\r\n**Namen**\r\n- Kein Standard-Name wie \"Human\" oder \"Survivor\".\r\n- Kein beleidigender oder unangemessener Name.\r\n- Discord-Nickname = Ingame-Charaktername.\r\n\r\n**Handel**\r\n- Verschenken verboten — fairer Handel per Shop-Punkte, Element oder Tausch.\r\n- Orientierung an den Shoppreisen.\r\n\r\n**Discord**\r\n- Mindestens 1 Tribe-Mitglied muss im Discord registriert sein.\r\n- Keine Sprechpflicht — nur damit wichtige Infos ankommen!\r\n- Ausführliche Regeln unbedingt im Discord nachlesen.\r\n\r\n⚠ Bei falschem Name oder Regelverstoß → sofort Ticket im Discord erstellen!"
+					},
+					{
+						"title": "Most Important Rules",
+						"text": "**Behaviour**\r\n- Respect other players — you are not alone.\r\n- No bugusing, undermeshing or insults → Ban.\r\n- Admins have the final say.\r\n- Chat in English or German only.\r\n\r\n**Names**\r\n- No default names like \"Human\" or \"Survivor\".\r\n- No offensive or inappropriate names.\r\n- Discord nickname = Ingame character name.\r\n\r\n**Trading**\r\n- No gifting — fair trade only via shop points, Element or exchange.\r\n- Use the shop prices as a reference.\r\n\r\n**Discord**\r\n- At least 1 tribe member must be registered in Discord.\r\n- No voice chat required — just to make sure important info reaches you!\r\n- Read the full rules in our Discord.\r\n\r\n⚠ Wrong name or rule violation → open a ticket in Discord immediately!"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "GoA Discord",
+				"url": "https://discord.gg/knnQvUWBrp"
+			}
+		],
+		"version": 2
+	}
 }
