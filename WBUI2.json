@@ -6,10 +6,10 @@
 			"openbutton": 1,
 			"hideicon": false,
 			"hideiconafter": 60,
-			"iconurl": "https://cdn.discordapp.com/attachments/1407484979214028822/1515964528884711475/logo_goA_asa.jpg?ex=6a30eb7c&is=6a2f99fc&hm=2d59e0d0e48d0fac8c8ed0a9b740c1ae7efaf829bcd27b024e21151c8c7f3179&",
+			"iconurl": "https://cdn.discordapp.com/attachments/1407484979214028822/1515966946183745556/GoAWBUI2.png?ex=6a30edbd&is=6a2f9c3d&hm=c248fccd7e6eaee45d0bcd2da646360aa952722a20de22f592738991edc84e88&",
 			"disableicontext": false,
 			"iconposition": 1,
-			"icontextcolor": 1,
+			"icontextcolor": 8,
 			"openonstart": true,
 			"openonstartonlynewplayers": true,
 			"updateinterval": 5
