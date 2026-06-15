@@ -4,11 +4,11 @@
 		"settings":
 		{
 			"openbutton": 1,
-			"hideicon": false,
-			"hideiconafter": 60,
+			"hideicon": true,
+			"hideiconafter": 40,
 			"iconurl": "https://cdn.discordapp.com/attachments/1407484979214028822/1515966946183745556/GoAWBUI2.png?ex=6a30edbd&is=6a2f9c3d&hm=c248fccd7e6eaee45d0bcd2da646360aa952722a20de22f592738991edc84e88&",
 			"disableicontext": false,
-			"iconposition": 1,
+			"iconposition": 3,
 			"icontextcolor": 8,
 			"openonstart": true,
 			"openonstartonlynewplayers": true,
@@ -18,7 +18,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Welcome",
-				"imageurl": "https://cdn.discordapp.com/attachments/411577322055925760/1515976059110035566/8792d18c-d5d6-44a1-966d-5803125fbb18.png?ex=6a30f639&is=6a2fa4b9&hm=8d4b8a244d45ffb2cd799167a0b7dc011c2ff8ddeaaa3454756558ba63bf75df&",
+				"imageurl": "https://cdn.discordapp.com/attachments/1407484979214028822/1516007309237686282/8792d18c-d5d6-44a1-966d-5803125fbb18.png?ex=6a311354&is=6a2fc1d4&hm=43b0e5d119cb52c738550f887abc797982bfedfcdfccd090751ae5d98bfa6cb9&",
 				"content": [
 					{
 						"title": "Willkommen auf Galaxy of ARK - GoA",
@@ -33,7 +33,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Rules",
-				"imageurl": "https://cdn.discordapp.com/attachments/411577322055925760/1515976059110035566/8792d18c-d5d6-44a1-966d-5803125fbb18.png?ex=6a30f639&is=6a2fa4b9&hm=8d4b8a244d45ffb2cd799167a0b7dc011c2ff8ddeaaa3454756558ba63bf75df&",
+				"imageurl": "https://cdn.discordapp.com/attachments/1407484979214028822/1516007309237686282/8792d18c-d5d6-44a1-966d-5803125fbb18.png?ex=6a311354&is=6a2fc1d4&hm=43b0e5d119cb52c738550f887abc797982bfedfcdfccd090751ae5d98bfa6cb9&",
 				"content": [
 					{
 						"title": "Die wichtigsten Regeln",
